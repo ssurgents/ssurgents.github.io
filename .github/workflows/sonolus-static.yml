@@ -35,9 +35,14 @@ jobs:
           ref: testserver
       - name: Setup Node.js environment
         uses: actions/setup-node@v3.6.0
+      - name: Markdown to HTML with GitHub Style
+        uses: natescherer/markdown-to-html-with-github-style-action@v1.1.0
+        with:
+          path: README.md
       - name: Run sonolus static generator
         run: |
           mkdir static
+          mv README.html static/index.html
           npx sonolus-generate-static -i gfriend/pack -o static/gfriend
           npx sonolus-generate-static -i loona/pack -o static/loona
       - name: Setup Pages
