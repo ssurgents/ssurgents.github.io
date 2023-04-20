@@ -21,7 +21,7 @@ More can be added in the future.
 - [Known Issues](#known-issues)
 - [Tentative Roadmap](#tentative-roadmap)
 - [FAQ](#faq)
-- [Support](#support)
+- [Bugs](#bugs)
 
 -----
 
@@ -50,7 +50,12 @@ Select the desired custom server and choose from the list of levels available.
 ## Known Issues
 
 1. Search functionality does not work in this test server, but will work once we move to dedicated hosting in the future
-2. Certain elements of gameplay like combos, scores, rave, etc do not match SSRG rules for now, as it will take time to work around some limitations of Sonolus to implement them.
+
+2. Certain elements of gameplay/UI do not match SSRG for now, as it will take time to work around some limitations of Sonolus to implement them.
+
+       - Sonolus' default Perfect/Great/Good instead of SPerfect/Perfect/Good
+   	   - Combo broken on Good
+   	   - Scores/Rave not ready
 
 -----
 
@@ -59,11 +64,11 @@ Select the desired custom server and choose from the list of levels available.
 ### Phase 1: SSRG-compatible level trainer
 
 #### Engine
-- [x] Basic SSRG input rules
+- [x] Basic SSRG-style game and rules
 - [x] Adjust level/note speed
-- [ ] Autoplay
+- [x] Autoplay
 - [ ] Choice of x or y axis input judgment modes (currently y-axis)
-- [ ] Scores and Rave system
+- [ ] Internal scores and rave system
 - [ ] SSRG-style score/rave UI
 - [ ] Release engine code under open source license
 
@@ -72,7 +77,7 @@ Select the desired custom server and choose from the list of levels available.
 - [x] Default in-game backgrounds
 - [ ] Lobby backgrounds
 - [ ] Improved SSRG-style skin/effects
-- [ ] SuperStar Iz*one style skin
+- [ ] SuperStar Iz*one style skin?
 
 #### Levels
 - [x] SuperStar Gfriend
@@ -81,7 +86,7 @@ Select the desired custom server and choose from the list of levels available.
 
 #### Services
 - [x] Static sonolus test server
-- [ ] Dedicated sonolus server
+- [ ] Dedicated sonolus server (required to scale project up, but comes with costs)
 
 
 ### Phase 2: Community-made custom levels
@@ -103,12 +108,14 @@ Select the desired custom server and choose from the list of levels available.
 - [ ] online level browser with rating and sorting
 - [ ] in-app chart-maker (after Sonolus-0.7.x)
 
-### Phase 3: Level Generator
+### Phase 3: Level Generator?
+
+Intended for newly released or less well-known music, until human chart-makers get to it.
+Human-made beatmaps are still better in general, but generated beatmaps could be useful as a starting point.
 
 #### Levels
 - [ ] beatmap generator algorithm
-- [ ] generated levels for community-requested music (typically newly released music,
-  	  before human chart-makers get to it)
+- [ ] generated levels for community-requested music
 
 #### Services
 - [ ] online beatmap generator for user-submitted music
@@ -118,13 +125,16 @@ Select the desired custom server and choose from the list of levels available.
 ## FAQ
 
 1. Q: Can you fix this issue with the Sonolus app?
-   A: I am not the developer of the Sonolus app, but you can ask for help with Sonolus in their [discord](https://discord.gg/zStqbJahH7).
+
+   	  A: I am not the developer of the Sonolus app, but you can ask for help with Sonolus in their [discord](https://discord.gg/zStqbJahH7).
 
 2. Q: When will you add levels from the SuperStar XXX app or from XXX group?
-   A: I can't commit to a timeframe, but will try to consider requests from the community
+
+   	  A: I can't commit to a timeframe, but will try to consider requests from the community
 
 -----
 
-## Support
+## Bugs
 
-I will start taking bug reports at a later time, but presently there are issues that I am already aware of and will be working on.
+For now, all bugs will be tracked on [github](https://github.com/ssurgents/ssurgents.github.io/issues), so check there first. You may also report bugs through this [google form](https://docs.google.com/forms/d/e/1FAIpQLSfB6Tnbi6_VkDJRR3mI3JWKGbiPRMeuRBQRqoeBslfOyzf3aw/viewform?usp=sf_link).
+
