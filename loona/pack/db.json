@@ -2816,6 +2816,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-21002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Uncover"
+			},
+			"artists": {
+				"en": "Loona Odd Eye Circle"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tLoona Odd Eye Circle\nAlbum:\t\tMax & Match\nTitle:\t\t\tUncover\nDuration:\t1:31.39\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t572\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-21001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "3e687afb890ea7e31bb8fc65c2f7491e18ac63d1",
+				"url": "/sonolus/repository/LevelCover/3e687afb890ea7e31bb8fc65c2f7491e18ac63d1"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "da09221eca1b99f214ac61711599707e4be7633b",
+				"url": "/sonolus/repository/LevelBgm/da09221eca1b99f214ac61711599707e4be7633b"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "c51becf4568aee6324989176a8bc4904b518c466",
+				"url": "/sonolus/repository/LevelPreview/c51becf4568aee6324989176a8bc4904b518c466"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "2ad53f30ceaa1a11604a5719efbe09b6014eb400",
+				"url": "/sonolus/repository/LevelData/2ad53f30ceaa1a11604a5719efbe09b6014eb400"
+			}
+		},
+		{
 			"name": "sslo-hard-bntb1",
 			"version": 1,
 			"rating": 0,
