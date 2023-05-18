@@ -2306,6 +2306,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-15002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "D-1"
+			},
+			"artists": {
+				"en": "Yves"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tYves\nAlbum:\t\tYves\nTitle:\t\t\tD-1\nDuration:\t1:41.65\nBPM:\t\t85\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t487\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-15001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "925c1e6ecb4434873be892d05ba96e9158e22c3e",
+				"url": "/sonolus/repository/LevelCover/925c1e6ecb4434873be892d05ba96e9158e22c3e"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "391a700e3d4a23cb690213e605093774b50892d6",
+				"url": "/sonolus/repository/LevelBgm/391a700e3d4a23cb690213e605093774b50892d6"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "a77c135a6a88d80c3e1554de93346d7e135faf35",
+				"url": "/sonolus/repository/LevelPreview/a77c135a6a88d80c3e1554de93346d7e135faf35"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "fe798567ec728134ba78e0eebae57f947f796247",
+				"url": "/sonolus/repository/LevelData/fe798567ec728134ba78e0eebae57f947f796247"
+			}
+		},
+		{
 			"name": "sslo-hard-16001",
 			"version": 1,
 			"rating": 0,
