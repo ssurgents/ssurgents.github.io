@@ -2306,6 +2306,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-14002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Puzzle"
+			},
+			"artists": {
+				"en": "Choerry & Jinsoul"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tChoerry & Jinsoul\nAlbum:\t\tChoerry\nTitle:\t\t\tPuzzle\nDuration:\t1:24.00\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t481\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-14001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "65c6bd8651f082b4a625c6c7c755d8f2d3d76a2a",
+				"url": "/sonolus/repository/LevelCover/65c6bd8651f082b4a625c6c7c755d8f2d3d76a2a"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "05b428e01c8586f07d8dbcaf6043513723ba2f5a",
+				"url": "/sonolus/repository/LevelBgm/05b428e01c8586f07d8dbcaf6043513723ba2f5a"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "8510ed1418f854a8dff968af7b2a452ec6dc714e",
+				"url": "/sonolus/repository/LevelPreview/8510ed1418f854a8dff968af7b2a452ec6dc714e"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "e747f3cf7b39065b3e29a87a8c8d7c4660f82f8b",
+				"url": "/sonolus/repository/LevelData/e747f3cf7b39065b3e29a87a8c8d7c4660f82f8b"
+			}
+		},
+		{
 			"name": "sslo-hard-15001",
 			"version": 1,
 			"rating": 0,
