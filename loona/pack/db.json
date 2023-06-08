@@ -2255,6 +2255,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-13002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Love Letter"
+			},
+			"artists": {
+				"en": "Jinsoul & Kim Lip"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tJinsoul & Kim Lip\nAlbum:\t\tJinsoul\nTitle:\t\t\tLove Letter\nDuration:\t1:31.89\nBPM:\t\t111\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t526\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-13001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "9b2c5cfe710c81c42944544924229fead2cca750",
+				"url": "/sonolus/repository/LevelCover/9b2c5cfe710c81c42944544924229fead2cca750"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "0a6e1e2c09d1cd38b2e29d983c64ef0baeb43e1b",
+				"url": "/sonolus/repository/LevelBgm/0a6e1e2c09d1cd38b2e29d983c64ef0baeb43e1b"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "ffbbe658f91e494d3a34d23a436bf3844170f63a",
+				"url": "/sonolus/repository/LevelPreview/ffbbe658f91e494d3a34d23a436bf3844170f63a"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "e45e379d4e4c3187cce080e3b4d8769d241a1df3",
+				"url": "/sonolus/repository/LevelData/e45e379d4e4c3187cce080e3b4d8769d241a1df3"
+			}
+		},
+		{
 			"name": "sslo-hard-14001",
 			"version": 1,
 			"rating": 0,
