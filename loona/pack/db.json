@@ -776,6 +776,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-03007",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "So What [Verse 2]"
+			},
+			"artists": {
+				"en": "Loona"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tLoona\nAlbum:\t\t[#]\nTitle:\t\t\tSo What [Verse 2]\nDuration:\t1:17.76\nBPM:\t\t125\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t645\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-03001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "00f1b4bdc14112e458f06a52060a7fe907d738ad",
+				"url": "/sonolus/repository/LevelCover/00f1b4bdc14112e458f06a52060a7fe907d738ad"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "720d94abad210ebd833124653dcd85c51c6b5087",
+				"url": "/sonolus/repository/LevelBgm/720d94abad210ebd833124653dcd85c51c6b5087"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "c19fc187a062f6b3ec3401fd0b5d23d93616e194",
+				"url": "/sonolus/repository/LevelPreview/c19fc187a062f6b3ec3401fd0b5d23d93616e194"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "977cd49c40994e42e59a6b68c2d12ef7e64e95e5",
+				"url": "/sonolus/repository/LevelData/977cd49c40994e42e59a6b68c2d12ef7e64e95e5"
+			}
+		},
+		{
 			"name": "sslo-hard-04001",
 			"version": 1,
 			"rating": 0,
