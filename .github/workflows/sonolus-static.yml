@@ -38,8 +38,8 @@ jobs:
       - name: Run sonolus static generator
         run: |
           mkdir static
-          npx sonolus-generate-static -i gfriend/pack -o static/gfriend
-          npx sonolus-generate-static -i loona/pack -o static/loona
+          npx sonolus-generate-static@4.0.1 -i gfriend/pack -o static/gfriend
+          npx sonolus-generate-static@4.0.1 -i loona/pack -o static/loona
       - name: Converts Markdown to HTML
         uses: jaywcjlove/markdown-to-html-cli@main
         with:
