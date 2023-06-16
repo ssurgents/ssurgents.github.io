@@ -31,14 +31,14 @@ More can be added in the future.
 ## Objectives
 
 Neither the SSuRGents engine nor the Sonolus app has any concept of theme cards or storing score records.
-They are NOT intended to replace the full experience of the original SuperStar rhythm games.
+This project is *NOT* intended to replace the full experience of the original SuperStar rhythm games.
 
 Instead, this project is intended to be enjoyed solely for the rhythm gameplay itself,
 and (in the future) as a space for creative extensions of the gameplay.
 It hopes to provide a way to play any song and any beatmap, free from the following:
 
 - ❌ gacha elements or payment-based advantages
-- ❌ rate limit on gameplay attempts by requiring the spending of a token
+- ❌ resource-based limit on gameplay attempts
 - ❌ incentive to grind particular songs rather than playing whichever you enjoy
 - ❌ dependence on a single provider of songs/beatmaps
 - ❌ withholding of any song(s) for reasons like "end-of-service" or "injunction"
@@ -51,10 +51,14 @@ It hopes to provide a way to play any song and any beatmap, free from the follow
 ### Step 1: Get the Sonolus app (version 0.6.x)
 
 Since the app is still in beta, it is not yet available from the usual app stores.
+Currently, the engine will only work on version 0.6.x of the app (NOT v0.7.x),
+so be sure to download the correct version below.
 Visit the Sonolus [website](https://sonolus.com) for sideloading instructions:
 
-- [Android](https://wiki.sonolus.com/getting-started/installing/android.html)
-- [iOS](https://wiki.sonolus.com/getting-started/installing/ios.html)
+- [Android instructions](https://wiki.sonolus.com/getting-started/installing/android.html)
+- [Android v0.6.5 apk download](https://sonolus.com/download/Sonolus_0.6.5.apk)
+- [iOS instructions](https://wiki.sonolus.com/getting-started/installing/ios.html)
+- [iOS v0.6.5 ipa download](https://sonolus.com/download/Sonolus_0.6.5.ipa)
 
 ### Step 2: Add custom server
 
@@ -108,6 +112,10 @@ Select the desired custom server and choose from the list of levels available.
 - [x] SuperStar Loona (continual updates)
 - [ ] Others
 
+If you would like to play songs from a certain group, please do let me know by submitting a feature request.
+(See the [Bugs](#bugs) section)
+I want to be sure that there is support from the respective fandom before making it available.
+
 #### Services
 - [x] Static sonolus test server
 - [ ] Dedicated sonolus server (required to scale project up, but comes with recurring costs)
@@ -154,7 +162,13 @@ Human-made beatmaps are still better in general, but generated beatmaps could be
 
 2. Q: When will you add levels from the SuperStar XXX app or from XXX group?
 
-   	  A: I can't commit to a timeframe, but will try to consider requests from the community
+   	  A: I can't commit to a timeframe, but will try to consider requests from the community.
+
+3. Q: My timing seems to be significantly off compared to my performance in the SuperStar apps. How do I calibrate my touch timing?
+
+   	  A: If you scroll down the results page after playing a level, you can see a few graphs showing your touch offsets.
+	  Peaks left of center means tapping too early, and right of center means too late.
+	  To calibrate, try setting the Engine Input Offset at the bottom of the level configuration page to how far your graph peaks are from the center.
 
 -----
 
@@ -167,6 +181,9 @@ You may also report bugs through this [google form](https://docs.google.com/form
 
 ## Supporting the project
 
-If you like this project and want to drop me a tip, my paypal is loonarorbiter at gmail dot com.
-Currently, donations will help me spend more time working on the project,
-but in the future it will also pay for recurring costs of a dedicated server.
+Everything made in this project will always be available for free,
+I do this only because I can't bear to see people deprived of playing their favorite songs.
+
+This project would not be possible at all without the Sonolus app, so please consider supporting its development as well.
+
+If you like this project, please help share it with other players that will like it too!
