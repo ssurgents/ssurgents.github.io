@@ -16,6 +16,16 @@ More can be added in the future.
 
 -----
 
+## Notice regarding new Sonolus version
+
+If you see a message saying that the engine is not compatible, you probably installed/updated to version 0.7.x of the Sonolus app.
+The engine currently needs version 0.6.x to work.
+If you mainly play ssurgents, please hold off from updating for now, or see the [How to play](#how-to-play) section for the v0.6.x download link.
+
+Work on a new v0.7.x compatible engine is still in progress, and updates will be posted here.
+
+-----
+
 ## Contents
 
 - [Objectives](#objectives)
@@ -83,7 +93,7 @@ Select the desired custom server and choose from the list of levels available.
    	   - Combo is broken on Good
    	   - Scores/Rave not ready
 
-3. Search functionality in the level listing does not work in this static test server, but will work once we move to dedicated hosting in the future 
+3. Search functionality in the level listing does not work in this static test server, but will work once we move to dedicated hosting in the future
 
 -----
 
@@ -95,6 +105,7 @@ Select the desired custom server and choose from the list of levels available.
 - [x] Basic SSRG-style game and rules (mostly)
 - [x] Adjust level/note speed
 - [x] Autoplay
+- [ ] Engine rewrite for new scripting system in Sonolus-0.7.x (in progress)
 - [ ] Choice of x or y axis input judgment modes (currently y-axis only)
 - [ ] Internal scores and rave system
 - [ ] SSRG-style score/rave UI
@@ -125,7 +136,6 @@ I want to be sure that there is support from the respective fandom before making
 
 #### Engine
 - [ ] Extended features (to be decided)
-- [ ] Engine rewrite for new scripting system in Sonolus-0.7.x
 
 #### Aesthetics
 - [ ] Community-made backgrounds/skins/effects
