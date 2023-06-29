@@ -1643,6 +1643,57 @@
 			}
 		},
 		{
+			"name": "sslo-hard-05008",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "PTT [Verse 2]"
+			},
+			"artists": {
+				"en": "Loona"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tLoona\nAlbum:\t\t[&]\nTitle:\t\t\tPTT [Verse 2]\nDuration:\t1:16.45\nBPM:\t\t124\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t700\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-05001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "90158685aee8c70b7b13e508873067bede3b4f5f",
+				"url": "/sonolus/repository/LevelCover/90158685aee8c70b7b13e508873067bede3b4f5f"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "679ff2a0260d53af3799fef8255041afffeff3b5",
+				"url": "/sonolus/repository/LevelBgm/679ff2a0260d53af3799fef8255041afffeff3b5"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "4ce8f3f372821d3e1dd0fa80cda7c896282fa335",
+				"url": "/sonolus/repository/LevelPreview/4ce8f3f372821d3e1dd0fa80cda7c896282fa335"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "7e0feb8f9d099d952ea52e6bf76ce1d79735dd7a",
+				"url": "/sonolus/repository/LevelData/7e0feb8f9d099d952ea52e6bf76ce1d79735dd7a"
+			}
+		},
+		{
 			"name": "sslo-hard-06001",
 			"version": 1,
 			"rating": 0,
