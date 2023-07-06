@@ -1035,7 +1035,7 @@
 			"version": 1,
 			"rating": 0,
 			"title": {
-				"en": "Oops"
+				"en": "Oops!"
 			},
 			"artists": {
 				"en": "Loona"
@@ -1044,7 +1044,7 @@
 				"en": "SuperStar Loona"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tLoona\nAlbum:\t\t[12:00]\nTitle:\t\t\tOops\nDuration:\t1:28.00\nBPM:\t\t105\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t688\n"
+				"en": "\n### Music ###\nArtist:\t\tLoona\nAlbum:\t\t[12:00]\nTitle:\t\t\tOops!\nDuration:\t1:28.00\nBPM:\t\t105\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t688\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1283,6 +1283,57 @@
 				"type": "LevelData",
 				"hash": "5677baead6ec9e7cd10cc0720e9dc2424460063a",
 				"url": "/sonolus/repository/LevelData/5677baead6ec9e7cd10cc0720e9dc2424460063a"
+			}
+		},
+		{
+			"name": "sslo-hard-04009",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Oops! [Verse 2]"
+			},
+			"artists": {
+				"en": "Loona"
+			},
+			"author": {
+				"en": "SuperStar Loona"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tLoona\nAlbum:\t\t[12:00]\nTitle:\t\t\tOops! [Verse 2]\nDuration:\t1:33.72\nBPM:\t\t105\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Loona\nMode:\thard\nNotes:\t758\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "sslo-ingame-04001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "ab1e4d079db2b05170f040a6fdb8f645cb6d1286",
+				"url": "/sonolus/repository/LevelCover/ab1e4d079db2b05170f040a6fdb8f645cb6d1286"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "378c792611f02de6d5922d8242a72389bdf19ac3",
+				"url": "/sonolus/repository/LevelBgm/378c792611f02de6d5922d8242a72389bdf19ac3"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "54e70bdae9d43c379a89755c0f4f31276a190947",
+				"url": "/sonolus/repository/LevelPreview/54e70bdae9d43c379a89755c0f4f31276a190947"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "d726acb3ee53399772b227238e90a928eea25ccc",
+				"url": "/sonolus/repository/LevelData/d726acb3ee53399772b227238e90a928eea25ccc"
 			}
 		},
 		{
