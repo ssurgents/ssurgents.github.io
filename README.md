@@ -10,6 +10,7 @@ The Sonolus app gives SSuRGents some nice features for free, like offline play a
 This test server currently contains levels from
 
 - SuperStar Gfriend (SSG)
+- SuperStar Pledis (SSP)
 - SuperStar Loona (SSLO)
 
 More can be added in the future.
@@ -61,8 +62,8 @@ It hopes to provide a way to play any song and any beatmap, free from the follow
 ### Step 1: Get the Sonolus app (version 0.6.x)
 
 Since the app is still in beta, it is not yet available from the usual app stores.
-Currently, the engine will only work on version 0.6.x of the app (NOT v0.7.x),
-so be sure to download the correct version below.
+**Currently, the engine will only work on version 0.6.x of the app (NOT v0.7.x),
+so be sure to download the correct version below.**
 Visit the Sonolus [website](https://sonolus.com) for sideloading instructions:
 
 - [Android instructions](https://wiki.sonolus.com/getting-started/installing/android.html)
@@ -75,6 +76,11 @@ Visit the Sonolus [website](https://sonolus.com) for sideloading instructions:
 Add the following as custom servers in the sonolus app
 
 - https://ssurgents.github.io/gfriend
+- https://ssurgents.github.io/pledis/afterschool
+- https://ssurgents.github.io/pledis/bumzu
+- https://ssurgents.github.io/pledis/nuest
+- https://ssurgents.github.io/pledis/pristin
+- https://ssurgents.github.io/pledis/seventeen
 - https://ssurgents.github.io/loona
 
 ### Step 3: Choose level and play
@@ -120,6 +126,7 @@ Select the desired custom server and choose from the list of levels available.
 
 #### Levels
 - [x] SuperStar Gfriend
+- [x] SuperStar Pledis
 - [x] SuperStar Loona (continual updates)
 - [ ] Others
 
