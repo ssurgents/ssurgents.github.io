@@ -64,12 +64,12 @@ It hopes to provide a way to play any song and any beatmap, free from the follow
 Since the app is still in beta, it is not yet available from the usual app stores.
 **Currently, the engine will only work on version 0.6.x of the app (NOT v0.7.x),
 so be sure to download the correct version below.**
-Visit the Sonolus [website](https://sonolus.com) for sideloading instructions:
+- [Android v0.6.5 apk download](https://download.sonolus.com/Sonolus_0.6.5.apk)
+- [iOS v0.6.5 ipa download](https://download.sonolus.com/Sonolus_0.6.5.ipa)
 
+Visit the Sonolus [website](https://sonolus.com) for sideloading instructions:
 - [Android instructions](https://wiki.sonolus.com/getting-started/installing/android.html)
-- [Android v0.6.5 apk download](https://sonolus.com/download/Sonolus_0.6.5.apk)
 - [iOS instructions](https://wiki.sonolus.com/getting-started/installing/ios.html)
-- [iOS v0.6.5 ipa download](https://sonolus.com/download/Sonolus_0.6.5.ipa)
 
 ### Step 2: Add custom server
 
