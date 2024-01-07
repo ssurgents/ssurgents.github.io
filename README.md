@@ -11,6 +11,7 @@ This test server currently contains levels from
 
 - SuperStar Gfriend (SSG)
 - SuperStar Pledis (SSP)
+- SuperStar FNC (SSF)
 - SuperStar Loona (SSLO)
 
 More can be added in the future.
@@ -73,15 +74,28 @@ Visit the Sonolus [website](https://sonolus.com) for sideloading instructions:
 
 ### Step 2: Add custom server
 
-Add the following as custom servers in the sonolus app
+Add the following as custom servers in the sonolus app.
+If you already have Sonolus installed, clicking the link will go directly to the page in the app.
 
-- https://ssurgents.github.io/gfriend
-- https://ssurgents.github.io/pledis/afterschool
-- https://ssurgents.github.io/pledis/bumzu
-- https://ssurgents.github.io/pledis/nuest
-- https://ssurgents.github.io/pledis/pristin
-- https://ssurgents.github.io/pledis/seventeen
-- https://ssurgents.github.io/loona
+
+- SuperStar Gfriend
+  - [https://ssurgents.github.io/gfriend](sonolus://ssurgents.github.io/gfriend)
+- SuperStar Pledis
+  - [https://ssurgents.github.io/pledis/afterschool](sonolus://ssurgents.github.io/pledis/afterschool)
+  - [https://ssurgents.github.io/pledis/bumzu](sonolus://ssurgents.github.io/pledis/bumzu)
+  - [https://ssurgents.github.io/pledis/nuest](sonolus://ssurgents.github.io/pledis/nuest)
+  - [https://ssurgents.github.io/pledis/pristin](sonolus://ssurgents.github.io/pledis/pristin)
+  - [https://ssurgents.github.io/pledis/seventeen](sonolus://ssurgents.github.io/pledis/seventeen)
+- SuperStar FNC
+  - [https://ssurgents.github.io/fnc/aoa](sonolus://ssurgents.github.io/fnc/aoa)
+  - [https://ssurgents.github.io/fnc/cherrybullet](sonolus://ssurgents.github.io/fnc/cherrybullet)
+  - [https://ssurgents.github.io/fnc/cnblue](sonolus://ssurgents.github.io/fnc/cnblue)
+  - [https://ssurgents.github.io/fnc/ftisland](sonolus://ssurgents.github.io/fnc/ftisland)
+  - [https://ssurgents.github.io/fnc/nflying](sonolus://ssurgents.github.io/fnc/nflying)
+  - [https://ssurgents.github.io/fnc/p1harmony](sonolus://ssurgents.github.io/fnc/p1harmony)
+  - [https://ssurgents.github.io/fnc/sf9](sonolus://ssurgents.github.io/fnc/sf9)
+- SuperStar Loona
+  - [https://ssurgents.github.io/loona](sonolus://ssurgents.github.io/loona)
 
 ### Step 3: Choose level and play
 
@@ -100,6 +114,10 @@ Select the desired custom server and choose from the list of levels available.
    	   - Scores/Rave not ready
 
 3. Search functionality in the level listing does not work in this static test server, but will work once we move to dedicated hosting in the future
+
+4. Judgment of slider start notes are delayed until the end of the entire slider.
+   This is a workaround to allow the engine to deduct health at the exact time of a "miss"
+   anytime along the slider.
 
 -----
 
@@ -127,6 +145,7 @@ Select the desired custom server and choose from the list of levels available.
 #### Levels
 - [x] SuperStar Gfriend
 - [x] SuperStar Pledis
+- [x] SuperStar FNC
 - [x] SuperStar Loona (continual updates)
 - [ ] Others
 
