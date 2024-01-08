@@ -1,0 +1,15 @@
+[submodule "loona"]
+	path = loona
+	url = git@github.com:ssurgents/loona.git
+[submodule "gfriend"]
+	path = gfriend
+	url = git@github.com:ssurgents/gfriend.git
+[submodule "pledis"]
+	path = pledis
+	url = git@github.com:ssurgents/pledis.git
+[submodule "fnc"]
+	path = fnc
+	url = git@github.com:ssurgents/fnc.git
+[submodule "debug"]
+	path = debug
+	url = git@github.com:ssurgents/debug.git
