@@ -37,6 +37,7 @@ Work on a new v0.7.x compatible engine is still in progress, and updates will be
 - [FAQ](#faq)
 - [Bugs](#bugs)
 - [Supporting the project](#supporting-the-project)
+- [Special thanks to](#special-thanks-to)
 
 -----
 
@@ -223,3 +224,10 @@ I do this only because I can't bear to see people deprived of playing their favo
 This project would not be possible at all without the Sonolus app, so please consider supporting its development as well.
 
 If you like this project, please help share it with other players that will like it too!
+
+-----
+
+## Special thanks to
+
+- Author of the [SSRG Tools](https://ssrg-tools.anhnhan.de) website for archiving SSG and SSP data
+- Discord users @ddm135, @remi1111, @lingonberrylatte for help with testing and finding bugs
