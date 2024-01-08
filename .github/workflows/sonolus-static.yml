@@ -4,7 +4,7 @@ name: Deploy sonolus generated static content to Pages
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["testserver"]
+    branches: ["main"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -32,15 +32,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          ref: testserver
-      - name: Setup Node.js environment
-        uses: actions/setup-node@v3.6.0
-      - name: Run sonolus static generator
-        run: |
-          mkdir static
-          for group in gfriend loona pledis/{afterschool,bumzu,nuest,pristin,seventeen}; do
-              npx sonolus-generate-static@4.0.1 -i "${group}/pack" -o "static/${group}"
-          done
+          ref: main
+      - name: Make static directory
+        run: mkdir static
       - name: Converts Markdown to HTML
         uses: jaywcjlove/markdown-to-html-cli@main
         with:
