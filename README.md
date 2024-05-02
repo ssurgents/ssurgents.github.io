@@ -70,7 +70,9 @@ so be sure to download the correct version below.**
 - [Android v0.6.5 apk download](https://download.sonolus.com/Sonolus_0.6.5.apk)
 - [iOS v0.6.5 ipa download](https://download.sonolus.com/Sonolus_0.6.5.ipa)
 
-Visit the Sonolus [website](https://sonolus.com) for sideloading instructions:
+Visit the Sonolus [website](https://sonolus.com) for **sideloading** instructions.
+iOS users, do **NOT** join the beta on TestFlight at this time,
+because that is for the newest version v0.8.0 which doesn't work with the current engine.
 - [Android instructions](https://wiki.sonolus.com/getting-started/installing/android.html)
 - [iOS instructions](https://wiki.sonolus.com/getting-started/installing/ios.html)
 
