@@ -13,3 +13,6 @@
 [submodule "debug"]
 	path = debug
 	url = git@github.com:ssurgents/debug.git
+[submodule "woollim"]
+	path = woollim
+	url = https://github.com/ssurgents/woollim.git
