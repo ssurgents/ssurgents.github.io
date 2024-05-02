@@ -12,6 +12,7 @@ This test server currently contains levels from
 - SuperStar Gfriend (SSG)
 - SuperStar Pledis (SSP)
 - SuperStar FNC (SSF)
+- SuperStar Woollim (SSW)
 - SuperStar Loona (SSLO)
 
 More can be added in the future.
@@ -20,11 +21,11 @@ More can be added in the future.
 
 ## Notice regarding new Sonolus version
 
-If you see a message saying that the engine is not compatible, you probably installed/updated to version 0.7.x of the Sonolus app.
+If you see a message saying that the engine is not compatible, you probably installed/updated to version 0.7.x or 0.8.x of the Sonolus app.
 The engine currently needs version 0.6.x to work.
 If you mainly play ssurgents, please hold off from updating for now, or see the [How to play](#how-to-play) section for the v0.6.x download link.
 
-Work on a new v0.7.x compatible engine is still in progress, and updates will be posted here.
+Work on a new v0.8.x compatible engine is still in progress, and updates will be posted here.
 
 -----
 
@@ -64,7 +65,7 @@ It hopes to provide a way to play any song and any beatmap, free from the follow
 ### Step 1: Get the Sonolus app (version 0.6.x)
 
 Since the app is still in beta, it is not yet available from the usual app stores.
-**Currently, the engine will only work on version 0.6.x of the app (NOT v0.7.x),
+**Currently, the engine will only work on version 0.6.x of the app (NOT v0.7.x or v0.8.x),
 so be sure to download the correct version below.**
 - [Android v0.6.5 apk download](https://download.sonolus.com/Sonolus_0.6.5.apk)
 - [iOS v0.6.5 ipa download](https://download.sonolus.com/Sonolus_0.6.5.ipa)
@@ -95,6 +96,13 @@ If you already have Sonolus installed, clicking the link will go directly to the
   - [https://ssurgents.github.io/fnc/nflying](sonolus://ssurgents.github.io/fnc/nflying)
   - [https://ssurgents.github.io/fnc/p1harmony](sonolus://ssurgents.github.io/fnc/p1harmony)
   - [https://ssurgents.github.io/fnc/sf9](sonolus://ssurgents.github.io/fnc/sf9)
+- SuperStar Woollim
+  - [https://ssurgents.github.io/woollim/infinite](sonolus://ssurgents.github.io/woollim/infinite)
+  - [https://ssurgents.github.io/woollim/lovelyz](sonolus://ssurgents.github.io/woollim/lovelyz)
+  - [https://ssurgents.github.io/woollim/goldenchild](sonolus://ssurgents.github.io/woollim/goldenchild)
+  - [https://ssurgents.github.io/woollim/rocketpunch](sonolus://ssurgents.github.io/woollim/rocketpunch)
+  - [https://ssurgents.github.io/woollim/drippin](sonolus://ssurgents.github.io/woollim/drippin)
+  - [https://ssurgents.github.io/woollim/kwoneunbi](sonolus://ssurgents.github.io/woollim/kwoneunbi)
 - SuperStar Loona
   - [https://ssurgents.github.io/loona](sonolus://ssurgents.github.io/loona)
 
@@ -147,6 +155,9 @@ Select the desired custom server and choose from the list of levels available.
 - [x] SuperStar Gfriend
 - [x] SuperStar Pledis
 - [x] SuperStar FNC
+- [x] SuperStar Woollim
+- [ ] SuperStar PNation (in progress)
+- [ ] SuperStar BrandNew (in progress)
 - [x] SuperStar Loona (continual updates)
 - [ ] Others
 
