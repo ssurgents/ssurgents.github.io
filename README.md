@@ -19,13 +19,14 @@ More can be added in the future.
 
 -----
 
-## Notice regarding new Sonolus version
+## Notice regarding official Sonolus release (1.x.x)
 
-If you see a message saying that the engine is not compatible, you probably installed/updated to version 0.7.x or 0.8.x of the Sonolus app.
-The engine currently needs version 0.6.x to work.
-If you mainly play ssurgents, please hold off from updating for now, or see the [How to play](#how-to-play) section for the v0.6.x download link.
+This engine is based on an old version of Sonolus (0.6.x) and will not work with newer versions, including the official release on App Store/Google Play.
 
-Work on a new v0.8.x compatible engine is still in progress, and updates will be posted here.
+If you see a message saying that the engine is not compatible, you probably installed/updated to a newer incompatible version.
+To play ssurgents, the current workaround is to avoid updating for now, or see the [How to play](#how-to-play) section for the v0.6.x download link.
+
+The official Sonolus requires a new engine that (realistically) might not be available for a while, but the author hopes to have the time someday to complete.
 
 -----
 
@@ -64,17 +65,14 @@ It hopes to provide a way to play any song and any beatmap, free from the follow
 
 ### Step 1: Get the Sonolus app (version 0.6.x)
 
-Since the app is still in beta, it is not yet available from the usual app stores.
-**Currently, the engine will only work on version 0.6.x of the app (NOT v0.7.x or v0.8.x),
+**Currently, the engine will only work on version 0.6.x of the app (NOT v0.7.x to the official v1.x.x),
 so be sure to download the correct version below.**
-- [Android v0.6.5 apk download](https://download.sonolus.com/Sonolus_0.6.5.apk)
-- [iOS v0.6.5 ipa download](https://download.sonolus.com/Sonolus_0.6.5.ipa)
+- [Android v0.6.5 apk download](https://drive.google.com/file/d/1ZV4iejeTJbKSjhfIFZ2_iKddwsdLi-y0/view?usp=sharing)
+- [iOS v0.6.5 ipa download](https://drive.google.com/file/d/1buUl-lokkT-tP5zp7P-H8cpbXyv_AInZ/view?usp=sharing)
 
-Visit the Sonolus [website](https://sonolus.com) for **sideloading** instructions.
-iOS users, do **NOT** join the beta on TestFlight at this time,
-because that is for the newest version v0.8.0 which doesn't work with the current engine.
-- [Android instructions](https://wiki.sonolus.com/getting-started/installing/android.html)
-- [iOS instructions](https://wiki.sonolus.com/getting-started/installing/ios.html)
+With the official release, the Sonolus [website](https://sonolus.com) no longer provides **sideloading** instructions,
+but you may be able to find instructions elsewhere for sideloading the old version of the app onto your device.
+
 
 ### Step 2: Add custom server
 
